@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Single Vendor E-Commerce System"
+rootProject.name = "SVECS"
 include(":app")
  
